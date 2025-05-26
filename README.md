@@ -38,3 +38,5 @@ flutter pub get
 Run the App:
 flutter run
 💡 You can use Android Emulator, iOS Simulator, or a physical device.
+
+author: Prerana Mp
